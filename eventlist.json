@@ -16,7 +16,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
@@ -92,7 +92,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 300,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -132,8 +132,8 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 650,
-		"karmatype": "Good"
+		"price": 750,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
@@ -157,8 +157,8 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 450,
-		"karmatype": "Good"
+		"price": 500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "wildman",
@@ -192,7 +192,7 @@
 	},
 	{
 		"abr": "yorkshireterriers",
-		"price": 600,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -202,7 +202,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -293,17 +293,17 @@
 	{
 		"abr": "removetrait",
 		"price": 5500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 750,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	}
 	],
 	"total": 61
